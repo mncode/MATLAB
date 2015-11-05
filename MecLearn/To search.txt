@@ -1,0 +1,5 @@
+Optimization algorithm for logistic regression:
+
+- Conjugate Gradient
+- BFGS
+- L-BFGS
